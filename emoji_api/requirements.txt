@@ -1,0 +1,7 @@
+flask-smorest
+flask
+python-dotenv
+tensorflow
+transformers
+numpy
+scipy
